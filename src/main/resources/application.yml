@@ -1,0 +1,11 @@
+server:
+  port: 12001
+
+
+influx:
+  url: http://x.x.x.x:8086
+  username: xxx
+  password: test@xxx
+  token: xxx
+  org: xxx
+  bucket: db-test
