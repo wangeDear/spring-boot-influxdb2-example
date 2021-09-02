@@ -1,12 +1,14 @@
-# spring-boot-influxdb2-example
+# spring-boot2-influxdb2-example
+
+# Spring Boot2 + Influxdb2 示例代码
 
 ## dependency repo:
 
-spring boot 2.5.3
+- spring boot 2.5.3
 
-influxdb-client-java 3.1.0
+- influxdb-client-java 3.1.0
 
-influxdb-spring 3.1.0
+- influxdb-spring 3.1.0
 
 influxdb-spring目前有个问题，当不依赖reative模块会报错，已提issues：https://github.com/influxdata/influxdb-client-java/issues/250
 
